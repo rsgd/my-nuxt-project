@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <Logo />
-      <h1 class="P-2">my-nuxt-project</h1>
+      <h1 class="p-2">my-nuxt-project</h1>
       <div class="links"></div>
     </div>
   </div>
