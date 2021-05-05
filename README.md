@@ -1,5 +1,7 @@
 # my-nuxt-project
 
+# cool!
+
 ## Build Setup
 
 ```bash
