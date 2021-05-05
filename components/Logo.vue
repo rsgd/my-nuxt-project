@@ -1,5 +1,9 @@
 <template>
-  <div class="NuxtLogo text-blue-600">Hello World</div>
+  <div>
+    <div class="NuxtLogo text-blue-600">Hello World</div>
+    <NuxtLink to="/">Home</NuxtLink>
+    <NuxtLink to="/about">About</NuxtLink>
+  </div>
 </template>
 
 <style>
