@@ -3,8 +3,6 @@
     <div>
       <Logo />
 
-      {{products}}
-
       <div class="m-6 grid grid-cols-1 2col:grid-cols-2 3col:grid-cols-3 gap-4">
         <div v-for="product in products" :key="product.id" v-bind:product="product" class="border rounded-lg bg-gray-100 hover:shadow-lg">
           <productWidgetImgIx :product="product"></productWidgetImgIx>
