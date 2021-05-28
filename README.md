@@ -18,3 +18,10 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+--- 
+
+## Shopify / imgIX
+
+Implementation based on this tutorial:
+https://dev.to/daletom/headless-shopify-with-nuxt-tailwind-imgix-vercel-1ldg

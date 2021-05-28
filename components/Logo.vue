@@ -1,11 +1,16 @@
 <template>
-  <div class="NuxtLogo">Hello World</div>
+  <div>
+    <div class="logo text-blue-600">Nuxt / Shopify / imgIX</div>
+    <NuxtLink to="/">Home</NuxtLink>
+    <NuxtLink to="/about">About</NuxtLink>
+  </div>
 </template>
 
 <style>
-.NuxtLogo {
+.logo {
   animation: 1s appear;
   margin: auto;
+  font-size: 2rem;
 }
 
 @keyframes appear {
