@@ -5,6 +5,7 @@
               class="crop mx-auto"
               width="380"
               height="380"
+              alt=""
               :imgixParams="{fit:'fill', fill:'solid', fillcolor:'f7fafc', trim:'auto'}"
               loading="lazy"
               fixed
