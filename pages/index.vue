@@ -4,6 +4,10 @@
       <Logo />
       <h1 class="p-2">my-nuxt-project</h1>
       <div class="links"></div>
+
+      <div
+        class="m-6 grid grid-cols-1 2col:grid-cols-2 3col:grid-cols-3 gap-4"
+      ></div>
     </div>
   </div>
 </template>
